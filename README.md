@@ -2,6 +2,10 @@
 
 ---
 
+<p>
+  Software Developer with a passion for innovation and technology, thoughtful UI designs, collaborating, and learning from my team members. I have 4+ years of experience in software development, building responsive websites/web applications, mobile applications, and interactive features that drive and improve user experience as well as creating scalable software solutions. 
+</p>
+
 ![](https://komarev.com/ghpvc/?username=cycosad&color=41fb41)
 
 <h3>Tools & Technologies, that I rely on</h3>
