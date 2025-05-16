@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=cycosad&color=41fb41)
 
 <h3>Tools & Technologies, that I rely on</h3>
 <p>
