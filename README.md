@@ -12,7 +12,7 @@
   I have created, contributed and launched multiple robust and scalable software applications, participating in the whole process of their development: UI/UX design, front-end, and back-end programming. I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth.
 </p>
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=41fb41)
+![](https://komarev.com/ghpvc/?username=cycosad&color=3333ff)
 
 <h3>Tools & Technologies, that I rely on</h3>
 <p>
