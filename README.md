@@ -1,5 +1,4 @@
-### Hi there ![image](https://github.com/user-attachments/assets/b824bcf7-8bab-4504-bc5d-a727dbe1e8ba)
- I'm Matheka Joseph!
+### Hi there 👋, I'm Matheka Joseph!
 
 ---
 
