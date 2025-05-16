@@ -5,6 +5,12 @@
 <p>
   Software Developer with a passion for innovation and technology, thoughtful UI designs, collaborating, and learning from my team members. I have 4+ years of experience in software development, building responsive websites/web applications, mobile applications, and interactive features that drive and improve user experience as well as creating scalable software solutions. 
 </p>
+<p>
+  I am proficient in HTML/CSS/SCSS, Bootstrap, Tailwind CSS, JavaScript, PHP (Laravel), MySQL, Postgres, Sqlite, Dart/Flutter, WordPress, Figma, Canva. In addition, I have Knowledge of Python (Django), Node JS, React Native, MongoDB, Firebase and exceptional problem-solving skills that allow me to tackle intricate challenges.
+</p>
+<p>
+  I have created, contributed and launched multiple robust and scalable software applications, participating in the whole process of their development: UI/UX design, front-end, and back-end programming. I embrace challenges with enthusiasm and continuously seek opportunities for personal and professional growth.
+</p>
 
 ![](https://komarev.com/ghpvc/?username=cycosad&color=41fb41)
 
